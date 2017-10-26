@@ -8,8 +8,9 @@ end
 gem 'rails-controller-testing'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
+gem 'bcrypt', '3.1.7'
 # Use sqlite3 as the database for Active Record
-gem 'bootstrap-sass', '3.2.0.0'
+gem 'bootstrap-sass', '3.2.0'
 # Use Puma as the app server
 #gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
